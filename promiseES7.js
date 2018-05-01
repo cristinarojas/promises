@@ -1,3 +1,8 @@
+// ES7 introduce async and await syntax.
+// It makes the asynchronous syntax look prettier and easier to understand,
+// without the .then and .catch.
+
+
 const isMomHappy = true;
 
 // Promise
